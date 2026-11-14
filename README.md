@@ -22,6 +22,6 @@ I’m the Founder & CEO of **Pixel Web Stack**. I have **7+ years of experience*
 - [Divi 5 Child Theme](https://github.com/heymonir/Divi-5-Child-Theme)
 - [WooCommerce Quantity Controls](https://github.com/heymonir/WooCommerce-quantity-minus-plus)
 - [Divi Mobile Menu Submenus](https://github.com/heymonir/Collapse-Divi-Mobile-Menu-Submenus)
-- [DevConf](https://github.com/heymonir/A01-DevConf)
+- [Personal Portfolio · Next.js and TypeScript](https://github.com/heymonir/A01-DevConf)
 
 For project inquiries, white-label development, or collaboration, reach me through [Pixel Web Stack](https://pixelwebstack.com/) or [LinkedIn](https://linkedin.com/in/heymonir/).
