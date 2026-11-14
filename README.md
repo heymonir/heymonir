@@ -1,33 +1,42 @@
-# Md Moniruzzaman
+<h1 align="center"><img src="./profile-hero.svg" width="840" alt="Moniruzzaman — Full Stack Developer, WordPress Expert, and AI Engineer. Founder and CEO of Pixel Web Stack."></h1>
 
-**Full Stack Developer · WordPress Expert · AI Engineer**
+<p align="center">I build websites, online stores, and custom web apps for businesses and agencies. With 7+ years in web development, I help teams connect their tools, automate repeatable tasks, and make it easier for customers to take the next step.</p>
 
-I’m the Founder & CEO of **Pixel Web Stack**. With **7+ years in web development**, I help businesses and digital agencies build responsive websites, online stores, and custom web applications. I integrate AI where it can save time, such as answering common questions, triaging inquiries, or preparing work for a person to review.
-
-[Pixel Web Stack](https://pixelwebstack.com/) · [Personal portfolio](https://mdmonir.net/) · [LinkedIn](https://linkedin.com/in/heymonir/)
+<p align="center"><a href="https://pixelwebstack.com/"><strong>Pixel Web Stack</strong></a> &nbsp;·&nbsp; <a href="https://mdmonir.net/">Personal portfolio</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/heymonir/">LinkedIn</a></p>
 
 ## What I build
 
-- **AI-powered websites and business workflows.** Integrate AI assistants and agents into websites and web apps, connect forms and CRMs through APIs, and automate repeatable tasks with clear review and handoff steps.
-- **Custom web applications.** Build responsive interfaces, backends, and integrations that connect the tools and data your team uses every day.
-- **WordPress and WooCommerce.** Build and customize business sites and stores with attention to speed, mobile usability, and technical SEO so customers can find what they need and take the next step.
+**AI-powered websites and business workflows**  
+I integrate assistants and AI agents into websites and apps to handle tasks like answering common questions and triaging inquiries. I connect forms, CRMs, and other tools through APIs, with human review and clear handoffs where they matter.
 
-## Technologies
+**Custom web applications**  
+I build responsive interfaces, backends, and integrations that bring the tools and data your team uses into a single workflow.
 
-**AI & integrations**  
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-7C3AED?style=flat-square) ![API Integration](https://img.shields.io/badge/API%20Integration-7C3AED?style=flat-square)
+**WordPress websites and WooCommerce stores**  
+I build and customize sites with attention to speed, responsive design, and technical SEO so people can find what they need on any device.
 
-**Full stack**  
-![React](https://img.shields.io/badge/React-3155D9?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-3155D9?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3155D9?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3155D9?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3155D9?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3155D9?style=flat-square)
+## Technical expertise
 
-**WordPress & e-commerce**  
-![WordPress](https://img.shields.io/badge/WordPress-14213D?style=flat-square) ![Divi 5](https://img.shields.io/badge/Divi%205-14213D?style=flat-square) ![Elementor](https://img.shields.io/badge/Elementor-14213D?style=flat-square) ![Bricks](https://img.shields.io/badge/Bricks-14213D?style=flat-square) ![WooCommerce](https://img.shields.io/badge/WooCommerce-14213D?style=flat-square)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,wordpress&amp;theme=dark" width="228" alt="" />
 
-## Selected work
+- **Full stack** · React, Next.js, TypeScript, JavaScript, Node.js, MongoDB
+- **WordPress** · Divi 5, Elementor, Bricks, WooCommerce
+- **AI and integration** · AI agents, workflow automation, APIs, CRM integrations
 
-- [WPOS](https://wpos.be/) · Pixel Web Stack’s WordPress and Divi 5 site for a Belgian point-of-sale provider, with navigation organized around hardware, software, and industries.
-- [Prokit Boutique](https://prokitboutique.com/) · Pixel Web Stack’s responsive football jersey store built with Elementor and WooCommerce.
-- [Personal portfolio source](https://github.com/heymonir/A01-DevConf) · A Next.js, React, and TypeScript site with project and service directories, a journal, and a contact form.
-- **WordPress utilities** · [Divi 5 child theme](https://github.com/heymonir/Divi-5-Child-Theme), [Divi mobile submenus](https://github.com/heymonir/Collapse-Divi-Mobile-Menu-Submenus), and [WooCommerce quantity controls](https://github.com/heymonir/WooCommerce-quantity-minus-plus).
+## Selected projects
 
-[See more agency projects](https://pixelwebstack.com/projects/) · **[Discuss your project](https://pixelwebstack.com/contact/)**
+**[WPOS](https://wpos.be/)** · Pixel Web Stack built this WordPress and Divi 5 site for a Belgian point-of-sale provider. Navigation is organized around hardware, software, and the industries it serves.
+
+**[Prokit Boutique](https://prokitboutique.com/)** · Pixel Web Stack built this responsive football jersey store with Elementor and WooCommerce.
+
+**[Personal portfolio source](https://github.com/heymonir/A01-DevConf)** · A Next.js, React, and TypeScript site with project and service directories, a journal, and a contact form.
+
+**WordPress utilities** · [Divi 5 child theme](https://github.com/heymonir/Divi-5-Child-Theme), [Divi mobile submenus](https://github.com/heymonir/Collapse-Divi-Mobile-Menu-Submenus), and [WooCommerce quantity controls](https://github.com/heymonir/WooCommerce-quantity-minus-plus).
+
+[See more Pixel Web Stack projects](https://pixelwebstack.com/projects/)
+
+## Let’s work together
+
+Planning a website, app, or automation? Tell me what you’re building or which workflow takes up too much time.
+
+**[Discuss your project](https://pixelwebstack.com/contact/)** · [Connect on LinkedIn](https://linkedin.com/in/heymonir/)
