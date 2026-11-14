@@ -23,18 +23,6 @@ I build and customize sites with attention to speed, responsive design, and tech
 - **WordPress** · Divi 5, Elementor, Bricks, WooCommerce
 - **AI and integration** · AI agents, workflow automation, APIs, CRM integrations
 
-## Selected projects
-
-**[WPOS](https://wpos.be/)** · Pixel Web Stack built this WordPress and Divi 5 site for a Belgian point-of-sale provider. Navigation is organized around hardware, software, and the industries it serves.
-
-**[Prokit Boutique](https://prokitboutique.com/)** · Pixel Web Stack built this responsive football jersey store with Elementor and WooCommerce.
-
-**[Personal portfolio source](https://github.com/heymonir/A01-DevConf)** · A Next.js, React, and TypeScript site with project and service directories, a journal, and a contact form.
-
-**WordPress utilities** · [Divi 5 child theme](https://github.com/heymonir/Divi-5-Child-Theme), [Divi mobile submenus](https://github.com/heymonir/Collapse-Divi-Mobile-Menu-Submenus), and [WooCommerce quantity controls](https://github.com/heymonir/WooCommerce-quantity-minus-plus).
-
-[See more Pixel Web Stack projects](https://pixelwebstack.com/projects/)
-
 ## Let’s work together
 
 Planning a website, app, or automation? Tell me what you’re building or which workflow takes up too much time.
